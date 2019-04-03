@@ -1,5 +1,4 @@
 # NodeChecker
-MN Configuration Tool
 <strong>====== NodeChecker Masternode Configuration Tool ======</strong></p>
 <pre><code>              V 1.0.0.1  ALPHA RELEASE
 </code></pre>
